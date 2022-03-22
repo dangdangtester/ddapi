@@ -13,8 +13,8 @@ def send_email(casename):
     #发送邮箱服务器
     smtpserver = 'smtp.qq.com'
     #发送邮箱用户名密码
-    user = '214848917@qq.com'
-    password = 'yenjupcbkqnwbjea'
+    user = 'username'
+    password = 'password'
     #发送和接收邮箱
     sender = '214848917@qq.com'
     #receives = ['fanghua@dangdang.com']
